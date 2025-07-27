@@ -7,3 +7,6 @@ Day 1 (27/7/25):
 
 ideal image (not accurate)
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/0666a935-8d5e-4b9e-8668-4a9d110ef258" />
+
+accurate skeleton structure image:
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/a894653c-f823-45f4-961f-7ecdddbc2c32" />
