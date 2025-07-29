@@ -34,7 +34,7 @@ i will use honey comb plates with magnets for front and back side of platforms g
 <img width="1320" height="723" alt="image" src="https://github.com/user-attachments/assets/89751321-c2eb-487f-9fdf-1108c3f5e5c9" />
 <img width="489" height="533" alt="image" src="https://github.com/user-attachments/assets/7be39909-5f51-454b-a2bd-134863672889" />
 
-Day 3 (29/7/25): (8h)
+Day 3 (29/7/25): (10h)
 
 - made 3 holes for wiring etc with 30mm diameter and gap btw them of 31mm.
 - remove bottom stands from body as it will make printing complex so i made 10mm bottom stands separate.
@@ -62,3 +62,14 @@ Day 3 (29/7/25): (8h)
 <img width="1051" height="546" alt="image" src="https://github.com/user-attachments/assets/bc503d45-e754-4f1e-8838-80698b1a45e5" />
 - handles done :D
 <img width="1051" height="546" alt="image" src="https://github.com/user-attachments/assets/9b38b2c2-e656-4321-a44b-661f3ffcdd0a" />
+
+## some polished structure images :D
+<img width="404" height="632" alt="image" src="https://github.com/user-attachments/assets/a96da521-1184-4b00-b673-3a6abc81decb" />
+<img width="404" height="632" alt="image" src="https://github.com/user-attachments/assets/bcfeb414-4952-433d-af00-f2bd25293a0e" />
+
+- removed handles from top plate cuz it needs alot of support while printing so we have now separate handles here:
+<img width="496" height="209" alt="image" src="https://github.com/user-attachments/assets/afe6354a-b800-459e-a83e-62533263cdb6" />
+ 
+After attaching them on top using screws:
+
+<img width="548" height="418" alt="image" src="https://github.com/user-attachments/assets/aace2011-853f-4280-b9b2-85d2345a9e2f" />
