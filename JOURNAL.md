@@ -34,7 +34,7 @@ i will use honey comb plates with magnets for front and back side of platforms g
 <img width="1320" height="723" alt="image" src="https://github.com/user-attachments/assets/89751321-c2eb-487f-9fdf-1108c3f5e5c9" />
 <img width="489" height="533" alt="image" src="https://github.com/user-attachments/assets/7be39909-5f51-454b-a2bd-134863672889" />
 
-Day 3 (29/7/25): (4h)
+Day 3 (29/7/25): (6h)
 
 - made 3 holes for wiring etc with 30mm diameter and gap btw them of 31mm.
 - remove bottom stands from body as it will make printing complex so i made 10mm bottom stands separate.
@@ -48,4 +48,10 @@ Day 3 (29/7/25): (4h)
 <img width="392" height="528" alt="image" src="https://github.com/user-attachments/assets/9e0bb3d0-c1be-47be-975b-449a33f417ad" />
 <img width="392" height="528" alt="image" src="https://github.com/user-attachments/assets/252a912a-0f9f-4f3e-8b5b-9e34dce8d24d" />
 
-- 
+- Decreased gaps btw plates for better appearance now it looks like this:
+<img width="429" height="552" alt="image" src="https://github.com/user-attachments/assets/e08c4f4b-1ecf-46be-b525-de6dda124787" />
+<img width="429" height="552" alt="image" src="https://github.com/user-attachments/assets/ef5fe288-2066-48ab-90c4-641a553127ce" />
+
+- added 8mm lead screw rods on all 4 corners for support
+<img width="435" height="600" alt="image" src="https://github.com/user-attachments/assets/644153fc-8f78-47ce-894c-92c37135be7f" />
+<img width="435" height="600" alt="image" src="https://github.com/user-attachments/assets/76cb68aa-3428-4001-8671-5fb1ac24d86d" />
