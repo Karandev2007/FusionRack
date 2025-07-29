@@ -33,3 +33,19 @@ i will use honey comb plates with magnets for front and back side of platforms g
 - here is base i made with 10mm thickness with bottom support stands of 10mm and boundries on all side except front of 5mm, i will add more bottom stands for support as base plate will handle 3-4 mini-pc on it so i dont want that it get broken or bended.
 <img width="1320" height="723" alt="image" src="https://github.com/user-attachments/assets/89751321-c2eb-487f-9fdf-1108c3f5e5c9" />
 <img width="489" height="533" alt="image" src="https://github.com/user-attachments/assets/7be39909-5f51-454b-a2bd-134863672889" />
+
+Day 3 (29/7/25): (4h)
+
+- made 3 holes for wiring etc with 30mm diameter and gap btw them of 31mm.
+- remove bottom stands from body as it will make printing complex so i made 10mm bottom stands separate.
+- sourced components for controller PCB, also [finalized fans](https://makerbazar.in/products/generic-axial-dc-cooling-fan-blowers?variant=46399947931888#product-reviews)
+<img width="1056" height="644" alt="image" src="https://github.com/user-attachments/assets/14c4752d-ba55-41ae-9700-78fea8cd02cd" />
+- Made plate 2 and 3 and placed all pis with accurate sizes.
+<img width="1320" height="723" alt="image" src="https://github.com/user-attachments/assets/8d250c00-def5-4bc8-9ed3-71154627fd18" />
+<img width="433" height="534" alt="image" src="https://github.com/user-attachments/assets/8274d612-bd2f-414f-866d-d5ab0aa54b95" />
+
+- one more plate completed with objects, usb hub, externals, etc.
+<img width="392" height="528" alt="image" src="https://github.com/user-attachments/assets/9e0bb3d0-c1be-47be-975b-449a33f417ad" />
+<img width="381" height="513" alt="image" src="https://github.com/user-attachments/assets/252a912a-0f9f-4f3e-8b5b-9e34dce8d24d" />
+
+- 
