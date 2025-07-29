@@ -46,6 +46,6 @@ Day 3 (29/7/25): (4h)
 
 - one more plate completed with objects, usb hub, externals, etc.
 <img width="392" height="528" alt="image" src="https://github.com/user-attachments/assets/9e0bb3d0-c1be-47be-975b-449a33f417ad" />
-<img width="381" height="513" alt="image" src="https://github.com/user-attachments/assets/252a912a-0f9f-4f3e-8b5b-9e34dce8d24d" />
+<img width="392" height="528" alt="image" src="https://github.com/user-attachments/assets/252a912a-0f9f-4f3e-8b5b-9e34dce8d24d" />
 
 - 
