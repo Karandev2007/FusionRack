@@ -19,12 +19,13 @@
 ## CAD
 
 <img width="286" height="308" alt="Fusion360_2qvXF0lHLG" src="https://github.com/user-attachments/assets/04718eed-7716-45f6-9679-cb447fc7cc9b" />
-
+<p>
 <img width="274" height="319" alt="Fusion360_H5AJuQYADy" src="https://github.com/user-attachments/assets/64324f11-b887-4fbf-b4e6-a48c534f942c" />
-
+<p>
 <img width="337" height="204" alt="Fusion360_dojqzJmKKm" src="https://github.com/user-attachments/assets/71b7ff31-27b3-4259-9385-dfeeeb4d55eb" />
-
+<p>
 <img width="265" height="310" alt="Fusion360_Xyw0X3V1Go" src="https://github.com/user-attachments/assets/e0b3339e-c4cd-49d5-a1d4-d8acb04e41e0" />
+<p>
 
 ## BOM
 
