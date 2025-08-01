@@ -1,4 +1,6 @@
-# FusionRack Journal
+# Zentra Journal
+
+## TOTAL TIME SPEND: 34h
 
 Day 1 (27/7/25): (6h)
 
@@ -70,3 +72,28 @@ Day 3 (29/7/25): (10h)
 After attaching them on top using screws:
 
 <img width="548" height="418" alt="image" src="https://github.com/user-attachments/assets/aace2011-853f-4280-b9b2-85d2345a9e2f" />
+
+# Day 4-5 (31/7/25) - (1/8/25): (6h)
+
+- got to know the guy in printing legion left that had required printer for my prints, i checked local 3d printing services which are demanding over 4000inr/45.76$ for a single print that max weights 300g, so i decieded to change whole design to make it printable with the printing legion available printer. here are designs:
+
+<img width="260" height="414" alt="image" src="https://github.com/user-attachments/assets/366c5ced-8924-46a1-93f7-29c5d3150a8f" />
+- added name on top of project:
+<img width="724" height="291" alt="image" src="https://github.com/user-attachments/assets/4764f9b0-2536-4f83-963d-4af654a3497b" />
+
+- made honey comb grids. this took me straight 30 mins, i did alot of hit and try.
+<img width="303" height="429" alt="image" src="https://github.com/user-attachments/assets/b7656651-2ae8-4600-988c-9a687d9d2570" />
+
+- made another for above section:
+<img width="322" height="534" alt="image" src="https://github.com/user-attachments/assets/a0acb216-7002-4216-9d5c-84c74b9952f7" />
+
+- here is full view:
+<img width="527" height="620" alt="image" src="https://github.com/user-attachments/assets/af65cdab-ba80-4f25-b634-3fd4e2813715" />
+
+- cut the whole setup into 2 so it can be printed, cuz it the reason im remaking it at last moment to fit in printer size.
+<img width="453" height="588" alt="image" src="https://github.com/user-attachments/assets/64c72b30-8c1b-43db-b5df-879533cf647c" />
+
+- added grids for fans and added fans for presentation:
+<img width="547" height="637" alt="image" src="https://github.com/user-attachments/assets/cceeb0e6-ba5d-4c53-9e43-d89f52118e03" />
+
+- added magnets placeholders for front and back plates.
