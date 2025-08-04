@@ -1,6 +1,6 @@
 # Zentra Journal
 
-## TOTAL TIME SPEND: 34h
+## TOTAL TIME SPEND: 36h (remake whole once)
 
 Day 1 (27/7/25): (6h)
 
@@ -97,3 +97,45 @@ After attaching them on top using screws:
 <img width="547" height="637" alt="image" src="https://github.com/user-attachments/assets/cceeb0e6-ba5d-4c53-9e43-d89f52118e03" />
 
 - added magnets placeholders for front and back plates.
+
+
+# Day 6 (4/8/25): (4h)
+
+- i have made my mind to keep the control panel for fans and lights, etc separate on a side or top mount control box with size of 80mm*80mm and 5mm thickness.
+<img width="532" height="473" alt="image" src="https://github.com/user-attachments/assets/6ae86be5-8afd-4118-93c2-144f7f0cef31" />
+<img width="902" height="608" alt="image" src="https://github.com/user-attachments/assets/0803e537-7f68-469f-bb93-a2a47bd23d55" />
+<img width="648" height="538" alt="image" src="https://github.com/user-attachments/assets/c21017d7-a546-4ae7-b5ff-7ba417621bb6" />
+
+perfect smooth edges
+
+<img width="729" height="359" alt="image" src="https://github.com/user-attachments/assets/9b24e2c3-e4d7-43a8-b45e-2e60965daa99" />
+<img width="642" height="426" alt="image" src="https://github.com/user-attachments/assets/72589de0-71b1-49d3-9298-32225e5d559a" />
+
+- made a hole in back for wires.
+<img width="671" height="517" alt="image" src="https://github.com/user-attachments/assets/abc72b7b-7c80-4d96-873a-21badd6dae35" />
+
+- added M5 holes for side and top mount
+<img width="544" height="498" alt="image" src="https://github.com/user-attachments/assets/dc28aeac-06f6-464f-97df-bf9586b25f1e" />
+
+- final control box/panel look:
+<img width="590" height="564" alt="image" src="https://github.com/user-attachments/assets/cfadaf72-f395-423f-8cc1-fe9ba298d01d" />
+
+- added screws for back panel of control panel.
+<img width="765" height="672" alt="image" src="https://github.com/user-attachments/assets/505fcf2f-3ac6-4291-b62b-60f91a5c98f8" />
+<img width="639" height="557" alt="image" src="https://github.com/user-attachments/assets/f75f3a74-7b1e-4c89-972f-11dfe9556128" />
+
+- front view of control panel:
+<img width="730" height="669" alt="image" src="https://github.com/user-attachments/assets/a54a5d79-116c-414e-b634-dc48954d5272" />
+
+- made holes on side panel of zentra upper body for mounting control panel:
+- <img width="1920" height="723" alt="image" src="https://github.com/user-attachments/assets/b916e197-0c5f-4cf4-af5c-d58afe3c5c78" />
+
+- added hole for wires on zentra and control panel bodies
+<img width="465" height="366" alt="image" src="https://github.com/user-attachments/assets/5f980f74-77e4-4aaa-8f32-495e96ad1870" />
+<img width="360" height="419" alt="image" src="https://github.com/user-attachments/assets/fb2ab443-b44d-4047-858d-0426315af729" />
+
+### FINAL RENDERED LOOK:
+<img width="718" height="665" alt="image" src="https://github.com/user-attachments/assets/89c66afb-7e26-41e7-8852-cfdc03dda9f8" />
+
+
+- updated BOM and Readme.
