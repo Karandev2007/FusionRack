@@ -6,14 +6,19 @@
 | 90° L Bracket Right Angle Shape Corner Stand | 4 | $0.46 | [link](https://makerbazar.in/products/right-angle-bracket-iron-angle-code-corner-stand?variant=46436990877936) |
 | Ball Caster Wheels | 6 | $1.23 | [link](https://makerbazar.in/products/castor-wheels) |
 | Low Cost USB-C wire | 1 | $0.45 | [link](https://makerbazar.in/products/generic-low-cost-type-c-usb-data-cable-black-white) |
-| Pink 12VDC LED strip | 1 | $2.73 | [link](https://makerbazar.in/products/2835-12v-dc-led-strips-roll?variant=46419708838128) |
+| 5V LED strip | 1 | $2.27 | [link](https://amzn.in/d/drIJrVY) |
 | PWM Fan Controller | 2 | $3.41 | [link](https://makerbazar.in/products/dc-6v-28v-6v-12v-24v-3a-pwm-dc-motor-speed-controller-forward-reverse-with-switch) |
 | Ribbon Cable Wire | 1 | $0.43 | [link](https://makerbazar.in/products/multi-coloured-ribbon-cable-wire?variant=40914910281879) |
 | Black Heat Shrink Sleeve Tube (2.5mm) | 1 | $0.091 | [link](https://makerbazar.in/products/heat-shrink?variant=19627635212384) |
 | Type-C USB PCB Breakout Board | 1 | $0.22 | [link](https://makerbazar.in/products/type-c-usb-female-to-dip-pcb-breakout-board?variant=46337045299440) |
 | Round Rocker | 2 | $0.30 | [link](https://makerbazar.in/products/round-rocker-switch-2-leg-pack-of-2-spst) |
-| Miscs | $2 |
+| Steel Allen Socket Head Nut-Bolt M5 20mm | 8 | $8.68 | [link](https://makerbazar.in/products/stainless-steel-allen-head-nut-bolt-washer-set?variant=44137393783024) |
+| buttonhead bolt M3 16mm | 4 | $0.39 | [link](https://novo3d.in/buttonhead-bolt-cs) |
+| buttonhead bolt key M3 | 1 | $0.29 | [link](https://novo3d.in/allen-keys) |
+| Brass Threaded Round Female Insert Nut | 4 | $0.23 | [link](https://makerbazar.in/products/brass-heat-set-threaded-round-female-insert-nut?variant=44435312083184) |
+| JST-SM Male-Female Connectors | 4 | $0.41 | [link](https://makerbazar.in/products/jst-sm-male-and-female-connector-pair-with-wire?variant=47213255065840) |
+| Miscs |  | $2 |
 
-Shipping and extra fees: $0.46
+Shipping and extra fees: $0.46 (makerbazar) + $0.057 (amazon) = $0.517
 
-Total: $28.68
+Total: $29.5

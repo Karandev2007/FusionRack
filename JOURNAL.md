@@ -1,4 +1,9 @@
-# Zentra Journal
+---
+title: "FusionRack / Zentra"
+author: "Karan"
+description: "a modern design 2-piece server tower that features total of 4 in-built cooling fans with speed and direction control & more."
+created_at: "2025-07-27"
+---
 
 ## TOTAL TIME SPEND: 36h (remake whole once)
 
@@ -134,8 +139,14 @@ perfect smooth edges
 <img width="465" height="366" alt="image" src="https://github.com/user-attachments/assets/5f980f74-77e4-4aaa-8f32-495e96ad1870" />
 <img width="360" height="419" alt="image" src="https://github.com/user-attachments/assets/fb2ab443-b44d-4047-858d-0426315af729" />
 
+- made a extra plate for extra broads like rpi etc
+<img width="492" height="325" alt="Fusion360_tLGu8A8jJq" src="https://github.com/user-attachments/assets/bbc03400-9c4a-4efe-ad0a-cfa57811fc31" />
+<img width="371" height="253" alt="Fusion360_mWScv6MAmZ" src="https://github.com/user-attachments/assets/353e3b0f-17b5-472f-a5da-4d71c34c64e5" />
+<img width="549" height="263" alt="Fusion360_chnrRIt6cY" src="https://github.com/user-attachments/assets/15272208-f76b-48ac-b8b1-fdecbe44f34d" />
+- made holes for M5 screws:
+<img width="1222" height="574" alt="image" src="https://github.com/user-attachments/assets/38e7839c-21ef-454a-a5dc-356df4ad1543" />
+
 ### FINAL RENDERED LOOK:
 <img width="718" height="665" alt="image" src="https://github.com/user-attachments/assets/89c66afb-7e26-41e7-8852-cfdc03dda9f8" />
-
 
 - updated BOM and Readme.
