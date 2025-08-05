@@ -1,4 +1,10 @@
-# FusionRack (Renamed Zentra)
+<div align="center">
+<img src="https://github.com/user-attachments/assets/179b0e9c-1cd8-400d-a1b8-619f658157df" alt="Title Image" width="50%" height="30%">
+</div>
+
+----
+
+<h3 align="center">Zentra / FusionRack</h3>
 
 This is a modern design 2-piece server tower that features total of 4 in-built cooling fans with speed and direction control for more customization, and removable magnetic lid covers for front and back sides.
 
@@ -7,7 +13,7 @@ This is a modern design 2-piece server tower that features total of 4 in-built c
 - Removable magnetic lids for easy hardware access.
 - Designed for modern era
 - Easily assemble or disassemble.
-- 2 USFF or TFF mini pc space.
+- 2 USFF or TFF mini pc space & a extra plate to attach as you wish for other broads.
 --------
 
 <img width="313" height="320" alt="Fusion360_aIFPBZsqRL" src="https://github.com/user-attachments/assets/1b59855f-1bf5-4d99-9ecb-6f4423dfc774" />
@@ -20,7 +26,13 @@ This is a modern design 2-piece server tower that features total of 4 in-built c
 <p>
 <img width="313" height="303" alt="Fusion360_BamHtervRx" src="https://github.com/user-attachments/assets/dc2ca7c5-8713-4033-a8ce-a74e1950cbae" />
 <img width="313" height="303" alt="Fusion360_RbzkFNrMxT" src="https://github.com/user-attachments/assets/bfe42d5a-cb25-47e6-bec9-3a6c9b6d3618" />
+
+----
+
+### Circuit Diagram
 <img width="1288" height="800" alt="image" src="https://github.com/user-attachments/assets/d5698f57-e33d-42ca-bb10-cb9494a33fe0" />
+
+----
 
 ## CAD
 
@@ -51,7 +63,7 @@ This is a modern design 2-piece server tower that features total of 4 in-built c
 | Black Heat Shrink Sleeve Tube (2.5mm) | 1 | $0.091 | [link](https://makerbazar.in/products/heat-shrink?variant=19627635212384) |
 | Type-C USB PCB Breakout Board | 1 | $0.22 | [link](https://makerbazar.in/products/type-c-usb-female-to-dip-pcb-breakout-board?variant=46337045299440) |
 | Round Rocker | 2 | $0.30 | [link](https://makerbazar.in/products/round-rocker-switch-2-leg-pack-of-2-spst) |
-| Steel Allen Socket Head Nut-Bolt M5 20mm | 4 | $4.34 | [link](https://makerbazar.in/products/stainless-steel-allen-head-nut-bolt-washer-set?variant=44137393783024) |
+| Steel Allen Socket Head Nut-Bolt M5 20mm | 8 | $8.68 | [link](https://makerbazar.in/products/stainless-steel-allen-head-nut-bolt-washer-set?variant=44137393783024) |
 | buttonhead bolt M3 16mm | 4 | $0.39 | [link](https://novo3d.in/buttonhead-bolt-cs) |
 | buttonhead bolt key M3 | 1 | $0.29 | [link](https://novo3d.in/allen-keys) |
 | Brass Threaded Round Female Insert Nut | 4 | $0.23 | [link](https://makerbazar.in/products/brass-heat-set-threaded-round-female-insert-nut?variant=44435312083184) |
@@ -60,4 +72,4 @@ This is a modern design 2-piece server tower that features total of 4 in-built c
 
 Shipping and extra fees: $0.46 (makerbazar) + $0.057 (amazon) = $0.517
 
-Total: $24.65
+Total: $29.5
