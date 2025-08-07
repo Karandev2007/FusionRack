@@ -5,7 +5,7 @@ description: "a modern design 2-piece server tower that features total of 4 in-b
 created_at: "2025-07-27"
 ---
 
-## TOTAL TIME SPEND: 36h (remake whole once)
+## TOTAL TIME SPEND: 38h (remake whole once)
 
 Day 1 (27/7/25): (6h)
 
@@ -149,4 +149,15 @@ perfect smooth edges
 ### FINAL RENDERED LOOK:
 <img width="718" height="665" alt="image" src="https://github.com/user-attachments/assets/89c66afb-7e26-41e7-8852-cfdc03dda9f8" />
 
+- updated BOM and Readme.
+
+
+# Day 7 (8/8/25): (2h)
+
+- added more stable support for fans on lids
+- made space for fans on top of case with screw holes.
+<img width="315" height="332" alt="Fusion360_hxXb0bYYCC" src="https://github.com/user-attachments/assets/e17277aa-9ae9-4974-a121-3fa84c6a2a4e" />
+- added extra space on extra plate for back lid fan.
+- made space for switches and knobs in control panel
+<img width="393" height="298" alt="Fusion360_5w3wfJcZCi" src="https://github.com/user-attachments/assets/819300f0-fd58-4537-b1fa-7525d40a1eac" />
 - updated BOM and Readme.
