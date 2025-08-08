@@ -1,8 +1,8 @@
 | Components | Amount | Total Price | Buy Link |
 |---|---|---|---|
 | 5020 fans | 4 | $4.07 | [link](https://makerbazar.in/products/generic-axial-dc-cooling-fan-blowers?variant=46399947931888) |
-| Neodymium Circular Magnet 3mm x 3mm | 48 | $4.39 | [link](https://makerbazar.in/products/neodymium-circular-magnet?variant=47451807875312) |
-| 90° L Bracket Right Angle Shape Corner Stand | 4 | $0.46 | [link](https://makerbazar.in/products/right-angle-bracket-iron-angle-code-corner-stand?variant=46436990877936) |
+| Neodymium Circular Magnet 3mm x 3mm | 24 | $2.20 | [link](https://makerbazar.in/products/neodymium-circular-magnet?variant=47451807875312) |
+| 90° L Bracket Right Angle Shape Corner Stand | 8 | $0.92 | [link](https://makerbazar.in/products/right-angle-bracket-iron-angle-code-corner-stand?variant=46436990877936) |
 | Ball Caster Wheels | 6 | $1.24 | [link](https://makerbazar.in/products/castor-wheels) |
 | Low Cost USB-C wire | 1 | $0.45 | [link](https://makerbazar.in/products/generic-low-cost-type-c-usb-data-cable-black-white) |
 | 5V LED strip | 1 | $2.27 | [link](https://amzn.in/d/drIJrVY) |
@@ -12,13 +12,14 @@
 | Type-C USB PCB Breakout Board | 1 | $0.22 | [link](https://makerbazar.in/products/type-c-usb-female-to-dip-pcb-breakout-board?variant=46337045299440) |
 | Round Rocker | 2 | $0.30 | [link](https://makerbazar.in/products/round-rocker-switch-2-leg-pack-of-2-spst) |
 | Steel Allen Socket Head Nut-Bolt M5 20mm | 2 | $2.17 | [link](https://makerbazar.in/products/stainless-steel-allen-head-nut-bolt-washer-set?variant=44137393783024) |
-| Steel Allen Socket Head Nut-Bolt M3 20mm | 2 | $1.83 | [link](https://makerbazar.in/products/stainless-steel-allen-head-nut-bolt-washer-set?variant=44137326838000) |
+| Steel Allen Socket Head Nut-Bolt M5 25mm | 2 | $2.52 | [link](https://makerbazar.in/products/stainless-steel-allen-head-nut-bolt-washer-set?variant=45147658322160) |
+| Steel Allen Socket Head Nut-Bolt M4 25mm | 1 | $1.09 | [link](https://makerbazar.in/products/stainless-steel-allen-head-nut-bolt-washer-set?variant=44137326838000) |
 | buttonhead bolt M3 16mm | 4 | $0.39 | [link](https://novo3d.in/buttonhead-bolt-cs) |
 | buttonhead bolt key M3 | 1 | $0.29 | [link](https://novo3d.in/allen-keys) |
 | Brass Threaded Round Female Insert Nut | 4 | $0.23 | [link](https://makerbazar.in/products/brass-heat-set-threaded-round-female-insert-nut?variant=44435312083184) |
 | JST-SM Male-Female Connectors | 4 | $0.41 | [link](https://makerbazar.in/products/jst-sm-male-and-female-connector-pair-with-wire?variant=47213255065840) |
 | Miscs |  | $4 |
 
-Shipping and extra fees: $0.46 (makerbazar) + $0.057 (amazon) = $0.517
+Shipping and extra fees: $0.46 (makerbazar) + $0.80 (nova3d) + $0.057 (amazon) = $1.317
 
-Total: $27.6
+Total: $28.5
