@@ -10,7 +10,7 @@ FILE_DESCRIPTION(
 
 FILE_NAME(
 /* name */ 'extra_plate.step',
-/* time_stamp */ '2025-08-08T03:43:47+05:30',
+/* time_stamp */ '2025-08-08T13:04:10+05:30',
 /* author */ (''),
 /* organization */ (''),
 /* preprocessor_version */ 'ST-DEVELOPER v20.1',
@@ -1061,7 +1061,7 @@ SOLID_ANGLE_UNIT()
 #1005=PRODUCT_DEFINITION_SHAPE('',$,#1008);
 #1006=SHAPE_REPRESENTATION('',(#632),#998);
 #1007=PRODUCT_DEFINITION_CONTEXT('part definition',#1012,'design');
-#1008=PRODUCT_DEFINITION('2025-08-08-03-43-47-244','extra_plate',#1009,
+#1008=PRODUCT_DEFINITION('2025-08-08-13-04-10-126','extra_plate',#1009,
 #1007);
 #1009=PRODUCT_DEFINITION_FORMATION('',$,#1014);
 #1010=PRODUCT_RELATED_PRODUCT_CATEGORY('extra_plate','extra_plate',(#1014));
@@ -1070,7 +1070,7 @@ SOLID_ANGLE_UNIT()
 #1012=APPLICATION_CONTEXT(
 'Core Data for Automotive Mechanical Design Process');
 #1013=PRODUCT_CONTEXT('part definition',#1012,'mechanical');
-#1014=PRODUCT('2025-08-08-03-43-47-244','extra_plate',$,(#1013));
+#1014=PRODUCT('2025-08-08-13-04-10-126','extra_plate',$,(#1013));
 #1015=PRESENTATION_STYLE_ASSIGNMENT((#1016));
 #1016=SURFACE_STYLE_USAGE(.BOTH.,#1017);
 #1017=SURFACE_SIDE_STYLE('',(#1018));
