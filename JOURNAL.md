@@ -156,8 +156,18 @@ perfect smooth edges
 
 - added more stable support for fans on lids
 - made space for fans on top of case with screw holes.
+  
 <img width="315" height="332" alt="Fusion360_hxXb0bYYCC" src="https://github.com/user-attachments/assets/e17277aa-9ae9-4974-a121-3fa84c6a2a4e" />
+
 - added extra space on extra plate for back lid fan.
 - made space for switches and knobs in control panel
+
 <img width="393" height="298" alt="Fusion360_5w3wfJcZCi" src="https://github.com/user-attachments/assets/819300f0-fd58-4537-b1fa-7525d40a1eac" />
+
 - updated BOM and Readme.
+- made support for fans and merged back lids into body.
+<img width="317" height="301" alt="Fusion360_pwB9NhmAKU" src="https://github.com/user-attachments/assets/a45d0f2b-df9c-4f94-a0e4-25ac92059f38" />
+- increased size of M3 holes to M5 for better stablity:
+<img width="319" height="234" alt="Fusion360_t8cnQmieDk" src="https://github.com/user-attachments/assets/2ddb96fd-353b-438d-bfd0-8074a5fabfce" />
+- did some small fixes
+- updated BOM and readme for images.
