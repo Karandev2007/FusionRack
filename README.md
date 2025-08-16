@@ -61,7 +61,7 @@ This is a modern design 2-piece server tower that features total of 4 in-built c
 | Ribbon Cable Wire | 2 | $0.87 | [link](https://makerbazar.in/products/multi-coloured-ribbon-cable-wire?variant=40914910281879) |
 | Black Heat Shrink Sleeve Tube (2.5mm) | 1 | $0.091 | [link](https://makerbazar.in/products/heat-shrink?variant=19627635212384) |
 | Type-C USB PCB Breakout Board | 1 | $0.22 | [link](https://makerbazar.in/products/type-c-usb-female-to-dip-pcb-breakout-board?variant=46337045299440) |
-| Round Rocker | 2 | $0.30 | [link](https://makerbazar.in/products/round-rocker-switch-2-leg-pack-of-2-spst) |
+| KCD1 Big Rocker Switch | 3 | $0.24 | [link](https://makerbazar.in/products/big-rocker-switch-2-leg-spst?variant=46150295814384) |
 | Steel Allen Socket Head Nut-Bolt M5 20mm | 2 | $2.17 | [link](https://makerbazar.in/products/stainless-steel-allen-head-nut-bolt-washer-set?variant=44137393783024) |
 | Steel Allen Socket Head Nut-Bolt M5 25mm | 2 | $2.52 | [link](https://makerbazar.in/products/stainless-steel-allen-head-nut-bolt-washer-set?variant=45147658322160) |
 | Steel Allen Socket Head Nut-Bolt M4 25mm | 1 | $1.09 | [link](https://makerbazar.in/products/stainless-steel-allen-head-nut-bolt-washer-set?variant=44137326838000) |
@@ -73,4 +73,4 @@ This is a modern design 2-piece server tower that features total of 4 in-built c
 
 Shipping and extra fees: $0.46 (makerbazar) + $0.80 (nova3d) + $0.057 (amazon) = $1.317
 
-Total: $28.5
+Total: $28.44
